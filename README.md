@@ -52,9 +52,9 @@ The SecureChain project integrates a Retrieval-Augmented Generation (RAG) model 
 ## Features
 
 - Document retrieval using RAG
-- Semantic search using Elasticsearch
-- Response generation using a local Language Learning Model
-- Observability with Traceloop
+- Vector storage and semantic search using Elasticsearch vector database
+- Response generation using a local Large Language Model for privacy concerns
+- Observability with Traceloop 
 
 ## Installation
 
