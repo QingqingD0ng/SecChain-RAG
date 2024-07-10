@@ -14,7 +14,7 @@ This project demonstrates the use of a Language Learning Model (LLM) integrated 
 - [License](#license)
 
 ## Project Overview
-![SecureChain Workflow](https://i.ibb.co/ZcWMRSr/Wechat-IMG428.png)
+![SecureChain Workflow](https://i.ibb.co/9rG5g52/Wechat-IMG441.png)
 
 The SecureChain project integrates a Retrieval-Augmented Generation (RAG) model with Elasticsearch to enhance document retrieval and response generation capabilities. This methodology leverages advanced natural language processing (NLP) techniques to deliver accurate and contextually relevant answers to queries related to IT security. The framework comprises several components, including data ingestion, document processing, vector storage, and query handling, which together form a cohesive system for efficient information retrieval.
 
