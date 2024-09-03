@@ -122,7 +122,7 @@ langchain-together==0.1.2
 langdetect==1.0.9
 langsmith==0.1.63
 layoutparser==0.3.4
-litellm==1.37.16
+litellm==1.40.16
 llama-index==0.10.40
 llama-index-agent-openai==0.2.5
 llama-index-cli==0.1.12
